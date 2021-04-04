@@ -1,2 +1,2 @@
 # Certification-courses
-Certification course catalog serving as a pre-requisite of on-boarding to Jio.
+Certification course catalog serving as a pre-requisite of on-boarding.
